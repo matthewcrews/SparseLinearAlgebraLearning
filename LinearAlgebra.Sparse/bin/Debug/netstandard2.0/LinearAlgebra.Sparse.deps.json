@@ -1,18 +1,19 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v2.2",
-    "signature": "2a3cce40ffad1aed363051b9051c2ff156f5fe39"
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "6ad4f4332a3e86daeee15c293f2ade692b261e66"
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v2.2": {
-      "LinearAlgebra.Console/1.0.0": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "LinearAlgebra.Sparse/1.0.0": {
         "dependencies": {
           "FSharp.Core": "4.5.2",
-          "LinearAlgebra.Sparse": "1.0.0"
+          "NETStandard.Library": "2.0.3"
         },
         "runtime": {
-          "LinearAlgebra.Console.dll": {}
+          "LinearAlgebra.Sparse.dll": {}
         }
       },
       "FSharp.Core/4.5.2": {
@@ -67,18 +68,16 @@
           }
         }
       },
-      "LinearAlgebra.Sparse/1.0.0": {
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
         "dependencies": {
-          "FSharp.Core": "4.5.2"
-        },
-        "runtime": {
-          "LinearAlgebra.Sparse.dll": {}
+          "Microsoft.NETCore.Platforms": "1.1.0"
         }
       }
     }
   },
   "libraries": {
-    "LinearAlgebra.Console/1.0.0": {
+    "LinearAlgebra.Sparse/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -90,10 +89,19 @@
       "path": "fsharp.core/4.5.2",
       "hashPath": "fsharp.core.4.5.2.nupkg.sha512"
     },
-    "LinearAlgebra.Sparse/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     }
   }
 }

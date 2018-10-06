@@ -1,0 +1,6 @@
+C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Sparse\bin\Debug\netstandard2.0\LinearAlgebra.Sparse.deps.json
+C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Sparse\bin\Debug\netstandard2.0\LinearAlgebra.Sparse.dll
+C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Sparse\bin\Debug\netstandard2.0\LinearAlgebra.Sparse.pdb
+C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Sparse\obj\Debug\netstandard2.0\LinearAlgebra.Sparse.fsprojAssemblyReference.cache
+C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Sparse\obj\Debug\netstandard2.0\LinearAlgebra.Sparse.dll
+C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Sparse\obj\Debug\netstandard2.0\LinearAlgebra.Sparse.pdb

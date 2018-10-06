@@ -284,11 +284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\SparseLinearAlgebraLearning\\LinearAlgebara.Sparse\\LinearAlgebara.Sparse.fsproj",
-      "projectName": "LinearAlgebara.Sparse",
-      "projectPath": "C:\\source\\SparseLinearAlgebraLearning\\LinearAlgebara.Sparse\\LinearAlgebara.Sparse.fsproj",
+      "projectUniqueName": "C:\\source\\SparseLinearAlgebraLearning\\LinearAlgebra.Sparse\\LinearAlgebra.Sparse.fsproj",
+      "projectName": "LinearAlgebra.Sparse",
+      "projectPath": "C:\\source\\SparseLinearAlgebraLearning\\LinearAlgebra.Sparse\\LinearAlgebra.Sparse.fsproj",
       "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\SparseLinearAlgebraLearning\\LinearAlgebara.Sparse\\obj\\",
+      "outputPath": "C:\\source\\SparseLinearAlgebraLearning\\LinearAlgebra.Sparse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

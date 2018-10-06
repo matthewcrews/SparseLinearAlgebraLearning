@@ -6,3 +6,6 @@ C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Console\bin\Debug\netcoreapp
 C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Console\obj\Debug\netcoreapp2.2\LinearAlgebra.Console.fsprojAssemblyReference.cache
 C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Console\obj\Debug\netcoreapp2.2\LinearAlgebra.Console.dll
 C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Console\obj\Debug\netcoreapp2.2\LinearAlgebra.Console.pdb
+C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Console\bin\Debug\netcoreapp2.2\LinearAlgebra.Sparse.dll
+C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Console\bin\Debug\netcoreapp2.2\LinearAlgebra.Sparse.pdb
+C:\source\SparseLinearAlgebraLearning\LinearAlgebra.Console\obj\Debug\netcoreapp2.2\LinearAlgebra.Console.fsproj.CopyComplete

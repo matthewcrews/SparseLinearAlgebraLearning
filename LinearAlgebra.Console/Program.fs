@@ -4,5 +4,8 @@ open System
 
 [<EntryPoint>]
 let main argv =
-    printfn "Hello World from F#!"
+    LinearAlgebara.Sparse.Say.hello "Katie"
+
+    printfn "Press any key to exit..."
+    Console.ReadKey() |> ignore
     0 // return an integer exit code

@@ -260,6 +260,19 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "LinearAlgebra.Sparse/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "FSharp.Core": "4.5.2"
+        },
+        "compile": {
+          "bin/placeholder/LinearAlgebra.Sparse.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinearAlgebra.Sparse.dll": {}
+        }
       }
     }
   },
@@ -771,11 +784,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "LinearAlgebra.Sparse/1.0.0": {
+      "type": "project",
+      "path": "../LinearAlgebra.Sparse/LinearAlgebra.Sparse.fsproj",
+      "msbuildProject": "../LinearAlgebra.Sparse/LinearAlgebra.Sparse.fsproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "FSharp.Core >= 4.5.2",
+      "LinearAlgebra.Sparse >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0-preview2-26905-02"
     ]
   },
@@ -808,7 +827,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\source\\SparseLinearAlgebraLearning\\LinearAlgebra.Sparse\\LinearAlgebra.Sparse.fsproj": {
+              "projectPath": "C:\\source\\SparseLinearAlgebraLearning\\LinearAlgebra.Sparse\\LinearAlgebra.Sparse.fsproj"
+            }
+          }
         }
       }
     },

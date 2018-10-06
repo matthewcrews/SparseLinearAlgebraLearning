@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "LinearAlgebara.Sparse", "LinearAlgebara.Sparse\LinearAlgebara.Sparse.fsproj", "{125A6FDD-0AEC-4B3E-BEC0-F7BBEDAA9369}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "LinearAlgebra.Sparse", "LinearAlgebra.Sparse\LinearAlgebra.Sparse.fsproj", "{125A6FDD-0AEC-4B3E-BEC0-F7BBEDAA9369}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LinearAlgebra.Console", "LinearAlgebra.Console\LinearAlgebra.Console.fsproj", "{CBFFD5E8-DAE7-4561-B4AE-57605B882E4B}"
 EndProject
